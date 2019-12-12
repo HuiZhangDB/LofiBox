@@ -10,8 +10,8 @@ This project is implemented using [Processing 3.5.3](https://processing.org/down
 * strip boards and wires
 * headpins and crimp terminals
 
-<img src="http://huisblog.cn/LofiBox/images/lofiBox.png" width="560"/>
+<img src="http://huisblog.cn/LofiBox/images/lofiBox.png"/>
 
 The software interface visualizes users' touch on the pad, as well as the amplitude and the spectrum of the sound collected by microphone.
 
-<img src="http://huisblog.cn/LofiBox/images/boxInterface.jpeg" width="560"/>
+<img src="http://huisblog.cn/LofiBox/images/boxInterface.jpeg"/>
