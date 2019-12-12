@@ -15,3 +15,7 @@ This project is implemented using [Processing 3.5.3](https://processing.org/down
 The software interface visualizes users' touch on the pad, as well as the amplitude and the spectrum of the sound collected by microphone.
 
 <img src="http://huisblog.cn/LofiBox/images/boxInterface.jpeg"/>
+
+This is a short video showcase:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RFP0yyifgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
